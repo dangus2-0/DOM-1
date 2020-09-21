@@ -38,7 +38,7 @@ You have been provided an [object](src/index.js) with all the necessary data to 
 
 * [ ] Remember, NO direct updating of the HTML source is allowed.
 * [ ] Using your selectors, update the content to match the example file.
-* [ ] Remember to update the src attributes on images
+* [ ] Remember to update the src attributes on  images
 
 ## Task 3: Add new content
 
